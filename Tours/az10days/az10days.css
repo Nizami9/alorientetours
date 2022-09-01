@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(/Tours/az10days/images/nature1.jpeg);
+        background-image: url(/Tours/az10daysimages/nature1.jpeg);
         background-size: cover;
         height: 400px;
         background-position: 0px 900px;
@@ -467,7 +467,7 @@ body {
     }
 
     .mapimage {
-        background-image: url(/Tours/az10days/images/mapmain.jpeg);
+        background-image: url(/Tours/az10daysimages/mapmain.jpeg);
         background-size: contain;
         background-repeat: no-repeat;
         height: 900px;
