@@ -344,33 +344,33 @@ text-decoration: none;
 }
 
 .tours1 {
-    background-image: url(images/shadili3.jpeg);
+    background-image: url(/images/shadili3.jpeg);
 }
 
 .tours2 {
-    background-image: url(images/mount33.jpg);
+    background-image: url(/images/mount33.jpg);
     background-position: 30%;
     background-repeat: no-repeat;
 }
 
 .tours3 {
-    background-image: url(images/ancient-1997162_1280.webp);
+    background-image: url(/images/ancient-1997162_1280.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .tours4 {
-    background-image: url(images/cuisine.jpeg);
+    background-image: url(/images/cuisine.jpeg);
     background-size: cover;
 }
 
 .tours5 {
-    background-image: url(images/jip.jpeg);
+    background-image: url(/images/jip.jpeg);
     background-size: cover;
 }
 
 .tours6 {
-    background-image: url(images/82.jpeg);
+    background-image: url(/images/82.jpeg);
     background-size: cover;
     background-position: 200px 0px;
 }
@@ -490,7 +490,7 @@ text-decoration: none;
 
 .section4 {
     height: 400px;
-    background-image: url(images/horse4.webp);
+    background-image: url(/images/horse4.webp);
     background-size: 100%;
     background-repeat: repeat;
     background-position: -50px -140px;
@@ -546,7 +546,7 @@ box-sizing: border-box;
 
 .section6 {
     height: 400px;
-    background-image: url(images/main2.jpg);
+    background-image: url(/images/main2.jpg);
     background-color: rgb(0, 0, 0, 0.5);
     background-repeat: no-repeat;
     background-position: -250px 0px;
