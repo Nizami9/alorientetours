@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(images/mainimg.jpeg);
+        background-image: url(../../images/mainimg.jpeg);
         height: 400px;
         background-size: 110%;
         background-repeat: no-repeat;
@@ -177,7 +177,7 @@ body {
 
     .footer {
         height: 400px;
-        background-image: url(images/main2.jpg);
+        background-image: url(../../images/main2.jpg);
         background-color: rgb(0, 0, 0, 0.5);
         background-repeat: no-repeat;
         background-position: -250px 0px;
@@ -468,7 +468,7 @@ body {
     }
 
     .mapimage {
-        background-image: url(images/mainmap.jpeg);
+        background-image: url(../../images/mainmap.jpeg);
         background-size: contain;
         background-repeat: no-repeat;
         height: 900px;
@@ -555,14 +555,14 @@ body {
 }
 
 
-.containerimages {
+.container../../images {
     width: 1200px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 
-.containerimages img {
+.container../../images img {
     width: 290px;
     height: 200px;
 }
