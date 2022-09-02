@@ -554,14 +554,14 @@ body {
 }
 
 
-.container../../images {
+.containerimages {
     width: 1200px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 
-.container../../images img {
+.containerimages img {
     width: 290px;
     height: 200px;
 }

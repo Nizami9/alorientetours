@@ -557,13 +557,13 @@ body {
 }
 
 
-.container../../images {
+.containerimages {
     width: 1200px;
     display: flex;
     flex-wrap: nowrap;
 }
 
-.container../../images img {
+.containerimages img {
     width: 290px;
     height: 200px;
     padding-left: 10px;
