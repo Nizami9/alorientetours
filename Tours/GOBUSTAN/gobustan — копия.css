@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(/Tours/GOBUSTAN/images/gobustan1.jpeg);
+        background-image: url(/Tours/GOBUSTANimages/gobustan1.jpeg);
         background-size: cover;
         height: 400px;
         background-position: 0px 690px;
@@ -176,7 +176,7 @@ body {
 
     .footer {
         height: 400px;
-        background-image: url(/images/main2.jpg);
+        background-image: url(images/main2.jpg);
         background-color: rgb(0, 0, 0, 0.5);
         background-repeat: no-repeat;
         background-position: -250px 0px;
