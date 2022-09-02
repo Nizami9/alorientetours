@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(../../images/atesh.jpeg);
+        background-image: url(/alorientetours/images/atesh.jpeg);
         background-size: cover;
         height: 400px;
         background-position: 0px 420px;
@@ -176,7 +176,7 @@ body {
 
     .footer {
         height: 400px;
-        background-image: url(../../images/main2.jpg);
+        background-image: url(/alorientetours/images/main2.jpg);
         background-color: rgb(0, 0, 0, 0.5);
         background-repeat: no-repeat;
         background-position: -250px 0px;
