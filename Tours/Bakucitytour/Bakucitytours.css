@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(/Tours/Bakucitytourimages/baki.jpeg);
+        background-image: url(images/baki.jpeg);
         background-size: cover;
         height: 400px;
         background-position: 0px 600px;

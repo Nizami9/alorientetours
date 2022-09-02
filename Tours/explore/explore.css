@@ -167,7 +167,7 @@ body {
     }
 
     .section1 {
-        background-image: url(/Tours/exploreimages/mainimg.jpeg);
+        background-image: url(images/mainimg.jpeg);
         height: 400px;
         background-size: 110%;
         background-repeat: no-repeat;
@@ -468,7 +468,7 @@ body {
     }
 
     .mapimage {
-        background-image: url(/Tours/exploreimages/mainmap.jpeg);
+        background-image: url(images/mainmap.jpeg);
         background-size: contain;
         background-repeat: no-repeat;
         height: 900px;
